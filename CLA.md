@@ -1,63 +1,103 @@
-# SantanderAI Individual Contributor License Agreement (ICLA)
+# Individual Contributor License Agreement (CLA) — DRAFT
 
-**Version 1.0 (DRAFT - pending review by Banco Santander Legal)**
+> **Legal review required.** This is a working draft. Do **not** publish to
+> `SantanderAI/cla` until reviewed and approved by the Legal Advisor.
+> It is closely based on the Apache Software Foundation Individual CLA v2.2
+> and on the Google Individual CLA, both of which are widely used in OSS.
 
-> WARNING: This document is a draft based on the Apache ICLA v2.2 template and has NOT yet been reviewed by Banco Santander Legal Counsel. It is published here so that the technical infrastructure (cla-signatures repo, CLA Assistant Lite bot, branch protection rules) can be set up end-to-end. Before any external contribution is accepted, this text must be replaced by the version reviewed and approved by Legal, and the version number incremented.
+Thank you for your interest in contributing to a project maintained by the
+`SantanderAI` GitHub organization (the "Project").
 
----
+This Contributor License Agreement ("Agreement") documents the rights granted
+by contributors to the Project. To make this document effective, please sign
+it via the CLA Assistant bot when prompted on your first pull request.
 
-In order to clarify the intellectual property licence granted with Contributions from any person or entity, the open-source organization **SantanderAI** ("the Organization"), maintained by **Banco Santander S.A.** ("Santander"), must have a Contributor License Agreement ("CLA") on file that has been signed by each Contributor, indicating agreement to the licence terms below.
-
-This licence is for your protection as a Contributor as well as the protection of the Organization, its users and Santander; it does not change your rights to use your own Contributions for any other purpose.
-
-You accept and agree to the following terms and conditions for Your present and future Contributions submitted to the Organization. Except for the licence granted herein to the Organization and recipients of software distributed by the Organization, You reserve all right, title, and interest in and to Your Contributions.
+This is a legally binding document, so please read it carefully before agreeing
+to it.
 
 ## 1. Definitions
 
-**"You"** (or **"Your"**) shall mean the copyright owner or legal entity authorised by the copyright owner that is making this Agreement with the Organization. For legal entities, the entity making a Contribution and all other entities that control, are controlled by, or are under common control with that entity are considered to be a single Contributor.
+- **"You"** (or **"Your"**) shall mean the copyright owner or legal entity
+  authorized by the copyright owner that is making this Agreement.
+- **"Contribution"** shall mean any original work of authorship, including any
+  modifications or additions to an existing work, that is intentionally
+  submitted by You to the Project for inclusion in, or documentation of, any of
+  the products owned or managed by the Project.
 
-**"Contribution"** shall mean any original work of authorship, including any modifications or additions to an existing work, that is intentionally submitted by You to the Organization for inclusion in, or documentation of, any of the products owned or managed by the Organization (the "Work"). For the purposes of this definition, "submitted" means any form of electronic, verbal, or written communication sent to the Organization or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Organization, but excluding communication that is conspicuously marked or otherwise designated in writing by You as "Not a Contribution".
+## 2. Grant of copyright license
 
-## 2. Grant of Copyright Licence
+Subject to the terms and conditions of this Agreement, You hereby grant to the
+Project and to recipients of software distributed by the Project a perpetual,
+worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright
+license to reproduce, prepare derivative works of, publicly display, publicly
+perform, sublicense, and distribute Your Contributions and such derivative
+works under the terms of the open-source license declared by the Project (the
+Apache License, Version 2.0, unless the specific Project's `LICENSE` file
+states otherwise).
 
-Subject to the terms and conditions of this Agreement, You hereby grant to the Organization and to recipients of software distributed by the Organization a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright licence to reproduce, prepare derivative works of, publicly display, publicly perform, sublicense, and distribute Your Contributions and such derivative works.
+## 3. Grant of patent license
 
-## 3. Grant of Patent Licence
+Subject to the terms and conditions of this Agreement, You hereby grant to the
+Project and to recipients of software distributed by the Project a perpetual,
+worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as
+stated in this section) patent license to make, have made, use, offer to sell,
+sell, import, and otherwise transfer the Contribution, where such license
+applies only to those patent claims licensable by You that are necessarily
+infringed by Your Contribution(s) alone or by combination of Your
+Contribution(s) with the work to which such Contribution(s) was submitted.
 
-Subject to the terms and conditions of this Agreement, You hereby grant to the Organization and to recipients of software distributed by the Organization a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent licence to make, have made, use, offer to sell, sell, import, and otherwise transfer the Work, where such licence applies only to those patent claims licensable by You that are necessarily infringed by Your Contribution(s) alone or by combination of Your Contribution(s) with the Work to which such Contribution(s) was submitted.
-
-If any entity institutes patent litigation against You or any other entity (including a cross-claim or counterclaim in a lawsuit) alleging that Your Contribution, or the Work to which You have contributed, constitutes direct or contributory patent infringement, then any patent licences granted to that entity under this Agreement for that Contribution or Work shall terminate as of the date such litigation is filed.
+If any entity institutes patent litigation against You or any other entity
+(including a cross-claim or counterclaim in a lawsuit) alleging that Your
+Contribution, or the work to which You have contributed, constitutes direct or
+contributory patent infringement, then any patent licenses granted to that
+entity under this Agreement for that Contribution or work shall terminate as
+of the date such litigation is filed.
 
 ## 4. Representations
 
-You represent that You are legally entitled to grant the above licence. If Your employer(s) has rights to intellectual property that You create that includes Your Contributions, You represent that You have received permission to make Contributions on behalf of that employer, that Your employer has waived such rights for Your Contributions to the Organization, or that Your employer has executed a separate Corporate CLA with the Organization.
+You represent that You are legally entitled to grant the above license. If
+Your employer(s) has rights to intellectual property that You create that
+includes Your Contributions, You represent that You have received permission
+to make Contributions on behalf of that employer, that Your employer has waived
+such rights for Your Contributions to the Project, or that Your employer has
+executed a separate Corporate CLA with the Project.
 
-You represent that each of Your Contributions is Your original creation (see section 7 for submissions on behalf of others).
-
-You represent that Your Contribution submissions include complete details of any third-party licence or other restriction (including, but not limited to, related patents and trademarks) of which You are personally aware and which are associated with any part of Your Contributions.
+You represent that each of Your Contributions is Your original creation. You
+represent that Your Contribution submissions include complete details of any
+third-party license or other restriction (including, but not limited to,
+related patents and trademarks) of which You are personally aware.
 
 ## 5. Support
 
-You are not expected to provide support for Your Contributions, except to the extent You desire to provide support. You may provide support for free, for a fee, or not at all. Unless required by applicable law or agreed to in writing, You provide Your Contributions on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE.
+You are not expected to provide support for Your Contributions, except to the
+extent You desire to provide support. You may provide support for free, for a
+fee, or not at all. Unless required by applicable law or agreed to in writing,
+You provide Your Contributions on an "AS IS" BASIS, WITHOUT WARRANTIES OR
+CONDITIONS OF ANY KIND, either express or implied, including, without
+limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT,
+MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE.
 
-## 6. Notification of Changes
+## 6. Notification of changes
 
-You agree to notify the Organization of any facts or circumstances of which You become aware that would make these representations inaccurate in any respect.
+You agree to notify the Project of any facts or circumstances of which You
+become aware that would make these representations inaccurate in any respect.
 
-## 7. Submissions on Behalf of Others
+## 7. Acceptance
 
-Should You wish to submit work that is not Your original creation, You may submit it to the Organization separately from any Contribution, identifying the complete details of its source and of any licence or other restriction (including, but not limited to, related patents, trademarks, and licence agreements) of which You are personally aware, and conspicuously marking the work as "Submitted on behalf of a third-party: [named here]".
+By posting the following comment on a pull request opened against any
+repository in the `SantanderAI` GitHub organization, You agree to the terms of
+this Agreement:
 
-## 8. Signing the CLA
+> I have read the CLA Document and I hereby sign the CLA
 
-To indicate Your acceptance of this Agreement, please open a pull request to a SantanderAI project and reply to the CLA Assistant bot's comment with exactly the following sentence:
+The CLA Assistant bot will record your signature in
+`SantanderAI/<repo>/.cla-signatures/v1/cla.json`. A single signature covers all
+your future Contributions to any repository in the `SantanderAI` organization
+unless this Agreement is amended.
 
-```
-I have read the CLA Document and I hereby sign the CLA
-```
+## 8. Amendment
 
-Your signature, GitHub username and the timestamp will be recorded in [SantanderAI/cla-signatures](https://github.com/SantanderAI/cla-signatures). One signature covers all of Your future Contributions to any SantanderAI project.
-
----
-
-*This document is based on the [Apache Individual Contributor License Agreement v2.2](https://www.apache.org/licenses/icla.pdf) and is itself dedicated to the public domain under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) so it can be reused by other organizations.*
+This Agreement may be amended at any time by the Project. The Project will
+post the updated Agreement at the same URL where this document is published
+(`https://github.com/SantanderAI/cla/blob/main/CLA.md`) and will request
+re-signature from existing contributors via the CLA Assistant bot.
