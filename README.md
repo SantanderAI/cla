@@ -4,7 +4,7 @@ This repository hosts the **Individual Contributor License Agreement (ICLA)** th
 
 ## Documents
 
-- [`CLA.md`](CLA.md) — The full text of the Individual Contributor License Agreement.
+- [`CLA.md`](CLA.md) - The full text of the Individual Contributor License Agreement.
 
 ## How signing works
 
@@ -14,7 +14,7 @@ We use the [CLA Assistant Lite](https://github.com/contributor-assistant/github-
 I have read the CLA Document and I hereby sign the CLA
 ```
 
-Once you reply, your signature is recorded in the private [`SantanderAI/cla-signatures`](https://github.com/SantanderAI/cla-signatures) repository and you will not be asked again for any subsequent contribution to any SantanderAI project.
+Once you reply, your signature is recorded **inside the same project repository** under `.cla-signatures/v1/cla.json`. You will be asked to sign once per project; signatures are not consolidated across the organization at this time.
 
 ## Why a CLA?
 
@@ -29,10 +29,14 @@ The CLA does not change the open-source nature of the project. Your code remains
 
 This CLA is based on the widely-used [Apache Individual Contributor License Agreement (ICLA) v2.2](https://www.apache.org/licenses/icla.pdf), which is the de facto standard adopted by Apache Foundation, Linux Foundation projects, Google, Microsoft and Meta.
 
+## Privacy
+
+Signatures contain only the public information already exposed by your GitHub profile (username, numeric ID) plus the timestamp of acceptance and the PR number where it was given. No additional personal data is collected. For GDPR erasure requests email **privacy@gruposantander.com**.
+
 ## Questions
 
 Open an issue in this repository, or email **opensource@gruposantander.com**.
 
 ## Licence
 
-The text in this repository is published under [Creative Commons Zero (CC0 1.0 Universal)](https://creativecommons.org/publicdomain/zero/1.0/) — the documents themselves are dedicated to the public domain so they can be reused freely.
+The text in this repository is published under [Creative Commons Zero (CC0 1.0 Universal)](https://creativecommons.org/publicdomain/zero/1.0/) - the documents themselves are dedicated to the public domain so they can be reused freely.
